@@ -11,11 +11,11 @@ Welcome some excellecnt gays join in to improve the functions.
 ### Useing Example
 * 1 step：Introducing Maven dependencies
 ```maven
-	<dependency>
-		<groupId>com.cht</groupId>
-		<artifactId>spring-cloud-resttemplate-feign</artifactId>
-		<version>1.0.3-RELEASE</version>
-	</dependency>
+<dependency>
+	<groupId>com.cht</groupId>
+	<artifactId>spring-cloud-resttemplate-feign</artifactId>
+	<version>1.0.3-RELEASE</version>
+</dependency>
 ```
 * 2 step： Define your business java interface<br>
 <font color=#00ffff size=72>notes</font>: value or name of annotation @ChtFeignClient must be unique
