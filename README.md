@@ -8,7 +8,7 @@ It's using SpringMVC annotation by deafult.
 
 Welcome some excellecnt gays join in to improve the functions.
 
-### Useing Example
+### Using Example
 * 1 step：Introducing Maven dependencies
 ```maven
 <dependency>
